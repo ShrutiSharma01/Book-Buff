@@ -7,6 +7,10 @@ do is rate ⭐ some of your favorite books and the application will do it's **ma
 
 ![3](https://user-images.githubusercontent.com/81433585/170096111-f2a69419-c19b-4c41-a39a-4ef722979ad3.PNG)
 
+### 🗯️ Flowchart
+![Blank diagram](https://user-images.githubusercontent.com/81433585/170820545-4a304bab-2795-4908-9e9a-a67b72578c08.png) 
+
+
 ### 🧾 Dataset 
 The Dataset used for this task is the [goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) dataset. It consists of 10k books with a total of 6 million ratings.
 
