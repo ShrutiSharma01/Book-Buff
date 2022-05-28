@@ -43,6 +43,14 @@ Embedding Matrix & Term Frequency methods were chosen:
 
 - **Term Frequency** - This method is like a helper function to above, it shines where embedding fails. Term Frequency takes into account the tokens in a book title be it the book title itself, the name of authors and also rating. Taking into consideration it finds books which match closely with the tokens in the rated book.
 
+### 👇 Tech Stack Used
+- HTML
+- CSS
+- Bootstrap
+- Python
+- Django
+- SQLite
+
 ### 👇 How to Run? 
 - Clone the repository - https://github.com/ShrutiSharma01/Book-Buff.git
 - Navigate to the directory of project - `cd Book-Buff/`
